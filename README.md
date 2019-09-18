@@ -1,4 +1,4 @@
-# TCA9535 Example
+# TCA9535 ESP32 Example
 
  
 * This example will show you how to use TCA9535 I2C I/O Expander:
